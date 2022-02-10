@@ -1,4 +1,4 @@
-# Weather Dashboard
+# james-weather-dashboard-api-call-html-css
 
 ## Table of contents
 * [General info](#general-info)
@@ -23,8 +23,7 @@ This project is created with:
 
 ## Screenshot
 ![project screenshot](assets/weather-dashboard-screenshot.png)
-Link to my deployed github page: https://rachelrohrbach.github.io/weather-dashboard/
-
+Link to my deployed github page: https://okingiboy.github.io/james-weather-dashboard-api-call-html-css/
 
 # Credits
 I consulted the OpenWeather API documentation (https://openweathermap.org/api), a tutorial for the Open Weather API (http://osp123.github.io/tutorials/html/weatherAPI.html), Moment.js (https://momentjs.com/), jQuery API Documentation (https://api.jquery.com/), W3Schools (https://www.w3schools.com/js/default.asp), MDN Web Docs (https://developer.mozilla.org/en-US/docs/Web/JavaScript), and Bootstrap 4 (https://getbootstrap.com/) extensively in creating my project. Some other resources that I used include: Stack Overflow (#https://stackoverflow.com/) and the GitLab repository for my course, specifically referencing the in-class activities. 
@@ -32,7 +31,7 @@ I consulted the OpenWeather API documentation (https://openweathermap.org/api), 
 ## License
 MIT License
 
-Copyright (c) [2019] [Rachel Rohrbach]
+Copyright (c) [2022] [James Chukwu]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
